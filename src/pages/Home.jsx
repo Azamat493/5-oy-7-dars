@@ -63,16 +63,14 @@ export default function Home() {
     setFilter(newFilter);
     navigate(`/home?filter=${newFilter}`, { replace: true });
   };
-
+  
   const allPlatformsFiltered = platforms.filter(
-    (p) => p.id !== "8" && p.id !== "9"
-  );
+  (p) => p.id.toString() !== "8" && p.id.toString() !== "9"
+);
 
-  const filteredPlatforms =
-    filter === "all"
-      ? allPlatformsFiltered
-      : allPlatformsFiltered.filter((p) => p.category === filter);
-
+  const filteredPlatforms = platforms
+    .filter((p) => filter === "all" || p.category === filter)
+    .slice(0, 7); 
   const categories = [
     "all",
     "youtube",
