@@ -1,9 +1,9 @@
 import { Routes, Route } from "react-router-dom";
-import Login from "./pages/Login";
-import Register from "./pages/Register";
-import Home from "./pages/Home";
-import Platform from "./pages/Platform";
-import Protected from "./components/Protected";
+import Login from "./pages/Login";       
+import Register from "./pages/Register"; 
+import Home from "./pages/Home";         
+import Platform from "./pages/platform"; 
+import Protected from "./components/Protected"; 
 
 function App() {
   return (
