@@ -16,6 +16,7 @@ import icon13 from "../assets/images/icon13.png";
 import Logo from "../assets/images/Logo.png";
 import UserAvatar from "../assets/images/UserAvatar.png";
 
+
 export default function Platform() {
   const { id } = useParams();
   const navigate = useNavigate();
