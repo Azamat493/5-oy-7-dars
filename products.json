@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "title": "YouTube Platform",
+    "description": "YouTube is a global video sharing platform.",
+    "creator": "James Gouse",
+    "views": "15K",
+    "createdAt": "2023-01-10",
+    "category": "youtube",
+    "users": "2.5B Active Users",
+    "image": "https://github.com/Azamat493/images/blob/main/youtube.png?raw=true",
+    "profile": "https://github.com/Azamat493/images/blob/main/youtube-avatar.png?raw=true",
+    "duration": "23:45"
+  },
+  {
+    "id": 2,
+    "title": "Instagram Platform",
+    "description": "Instagram is a social media platform focused on photos and videos.",
+    "creator": "Alan Cooper",
+    "views": "15K",
+    "createdAt": "2023-02-22",
+    "category": "instagram",
+    "users": "2B Active Users",
+    "image": "https://github.com/Azamat493/images/blob/main/instagram.png?raw=true",
+    "profile": "https://github.com/Azamat493/images/blob/main/instagram-avatar.png?raw=true",
+    "duration": "23:45"
+  },
+  {
+    "id": 3,
+    "title": "TikTok Platform",
+    "description": "TikTok is a short-form mobile video platform.",
+    "creator": "Marcus Levin",
+    "views": "15K",
+    "createdAt": "2023-03-05",
+    "category": "tiktok",
+    "users": "1.7B Active Users",
+    "image": "https://github.com/Azamat493/images/blob/main/tiktok.png?raw=true",
+    "profile": "https://github.com/Azamat493/images/blob/main/tiktok-avatar.png?raw=true",
+    "duration": "23:45"
+  },
+  {
+    "id": 4,
+    "title": "Netflix Platform",
+    "description": "Netflix is a streaming service offering movies and shows.",
+    "creator": "Alexis Sears",
+    "views": "15K",
+    "createdAt": "2023-05-15",
+    "category": "netflix",
+    "users": "260M Active Users",
+    "image": "https://github.com/Azamat493/images/blob/main/netflix.png?raw=true",
+    "profile": "https://github.com/Azamat493/images/blob/main/nextflix-avatar.png?raw=true",
+    "duration": "23:45"
+  },
+  {
+    "id": 5,
+    "title": "Twitter Platform",
+    "description": "Twitter is a social networking service for sharing updates.",
+    "creator": "Jesica Lambert",
+    "views": "15K",
+    "createdAt": "2023-04-11",
+    "category": "twitter",
+    "users": "556M Active Users",
+    "image": "https://github.com/Azamat493/images/blob/main/twitter.png?raw=true",
+    "profile": "https://github.com/Azamat493/images/blob/main/twitter-avatar.png?raw=true",
+    "duration": "23:45"
+  },
+  {
+    "id": 6,
+    "title": "Spotify Platform",
+    "description": "Spotify is a digital music streaming platform.",
+    "creator": "Anna White",
+    "views": "15K",
+    "createdAt": "2023-06-20",
+    "category": "spotify",
+    "users": "600M Active Users",
+    "image": "https://github.com/Azamat493/images/blob/main/spotify.png?raw=true",
+    "profile": "https://github.com/Azamat493/images/blob/main/spotify-avatar.png?raw=true",
+    "duration": "23:45"
+  },
+  {
+    "id": 7,
+    "title": "Discord Platform",
+    "description": "Discord is a VoIP and messaging platform for communities.",
+    "creator": "Skylar Dias",
+    "views": "15K",
+    "createdAt": "2023-03-30",
+    "category": "discord",
+    "users": "510M Active Users",
+    "image": "https://github.com/Azamat493/images/blob/main/discord.png?raw=true",
+    "profile": "https://github.com/Azamat493/images/blob/main/discord-avatar.png?raw=true",
+    "duration": "23:45"
+  }  
+]

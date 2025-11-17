@@ -12,7 +12,7 @@ export default function Login() {
     setError("");
 
     const res = await fetch(
-      "https://68fae18894ec96066023c657.mockapi.io/api/v2/products2"
+      "https://691aa27e2d8d7855756f8c58.mockapi.io/products2"
     );
     const data = await res.json();
 

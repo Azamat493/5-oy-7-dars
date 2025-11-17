@@ -25,9 +25,10 @@ export default function Home() {
   const navigate = useNavigate();
 
  useEffect(() => {
-  fetch("https://68fae18894ec96066023c657.mockapi.io/api/v2/products2")
+  fetch("https://691aa27e2d8d7855756f8c58.mockapi.io/products2")
     .then((res) => res.json())
     .then((data) => {
+      
       if (!data || !Array.isArray(data)) {
         console.error("API dan kelgan ma'lumot noto'g'ri:", data);
         return;
